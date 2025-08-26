@@ -7,7 +7,7 @@ fn main() {
             DefaultPlugins
                 .set(WindowPlugin {
                     primary_window: Some(Window {
-                        title: String::from("Flappy Bird"),
+                        title: String::from("Flappy dyga"),
                         position: WindowPosition::Centered(MonitorSelection::Primary),
                         resolution: Vec2::new(512., 512.).into(),
                         ..Default::default()
@@ -64,7 +64,7 @@ fn setup_level(
             image: asset_server.load("ładyga.png"),
             ..Default::default()
         },
-        Transform::IDENTITY.with_scale(Vec3::splat(PIXEL_RATIO)),
+        Transform::IDENTITY.with_scale(Vec3::splat(0.1)),
         Bird { velocity: 0. },
     ));
 
