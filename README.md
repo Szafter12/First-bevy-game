@@ -1,10 +1,11 @@
 # Flappy Bird Clone in Rust & Bevy
-
-![Flappy Bird Screenshot](screenshot.png)
+<div align=center>
+  ![Flappy Bird Screenshot](screenshot.png)
+</div>
 
 ## Overview
 
-This is a Flappy Bird based game written in **Rust** using the **Bevy engine**. Created for practise purpose.
+This is a Flappy Bird based game written in **Rust** using the **Bevy engine**. Created for practise purpose. Instead of bird I use my friend face.
 
 ## Features
 
