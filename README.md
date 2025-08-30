@@ -1,7 +1,6 @@
 # Flappy Bird Clone in Rust & Bevy
-<div align=center>
+
   ![Flappy Bird Screenshot](screenshot.png)
-</div>
 
 ## Overview
 
