@@ -10,7 +10,6 @@ This is a Flappy Bird based game written in **Rust** using the **Bevy engine**. 
 
 * Classic Flappy Bird mechanics
 * Simple physics: gravity, flapping, and collision detection
-* Score tracking
 * Cross-platform support (if you manage to compile it… good luck)
 
 ## Installation
