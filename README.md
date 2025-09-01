@@ -24,7 +24,7 @@ This is a Flappy Bird based game written in **Rust** using the **Bevy engine**. 
 
 ```bash
 git clone https://github.com/Szafter12/Flappy-bird-bevy
-cd flappy-bird-rust
+cd Flappy-bird-bevy
 cargo run
 ```
 
